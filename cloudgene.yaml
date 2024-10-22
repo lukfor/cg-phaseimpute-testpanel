@@ -1,0 +1,9 @@
+id: cg-phaseimpute-testpanel
+name: Testpanel (Chr21 und Chr22)
+description: Refpanel
+category: phaseimpute_reference
+version: 1.0.0
+properties:
+  chunks: "${CLOUDGENE_APP_LOCATION}/chunks.csv"
+  posfile: "${CLOUDGENE_APP_LOCATION}/posfile.csv"
+  panel: "${CLOUDGENE_APP_LOCATION}/panel.csv"
