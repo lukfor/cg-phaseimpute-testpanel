@@ -4,6 +4,6 @@ description: Refpanel
 category: phaseimpute_reference
 version: 1.0.0
 properties:
-  chunks: "${CLOUDGENE_APP_LOCATION}/chunks.csv"
-  posfile: "${CLOUDGENE_APP_LOCATION}/posfile.csv"
-  panel: "${CLOUDGENE_APP_LOCATION}/panel.csv"
+  chunks: "${CLOUDGENE_APP_LOCATION}/data/chunks.csv"
+  posfile: "${CLOUDGENE_APP_LOCATION}/data/posfile.csv"
+  panel: "${CLOUDGENE_APP_LOCATION}/data/panel.csv"
